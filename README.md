@@ -34,6 +34,7 @@ Current version: macOS Sequoia 15.5
 -	ChrisWayg's [visual guide](https://chriswayg.gitbook.io/opencore-visual-beginners-guide)
 
 ## Credits
--	Developers (acidanthera, ChefKiss, corpnewt, too many to mention)
--	Guide authors (Dortania, ChrisWayg)
+-	Developers ([acidanthera](https://github.com/acidanthera), [ChefKiss](https://github.com/chefkissinc), [corpnewt](https://github.com/corpnewt), too many to mention)
+-	Guide authors ([Dortania](https://github.com/dortania), [ChrisWayg](https://github.com/chriswayg))
 
+**Files provided are for reference and educational purposes only. Use them in your system at your own risk.**
